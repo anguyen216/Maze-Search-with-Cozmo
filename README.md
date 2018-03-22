@@ -33,6 +33,7 @@ Follow the following steps to get the file running
 ### Demonstration
 ##### Note
 In the video we have to realign Cozmo once in a while because the friction between his tread and the mat used prevent him from turning exactly 90 degrees.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZvaAH_TXjbk
 " target="_blank"><img src="http://img.youtube.com/vi/ZvaAH_TXjbk/0.jpg" 
 alt="Demonstration" width="400" height="350" border="10" /></a>
