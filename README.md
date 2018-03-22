@@ -13,7 +13,7 @@ The program allows Cozmo Robot to autonomically navigate through an "unknown" ma
 In order to run the program, user will need a Cozmo robot, a compatible mobile devices, Cozmo free app, a computer that has Cozmo SDK.
 
 ### Installing
-nstructions to install Cozmo SDK and how to run SDK files can be found in this [link](http://cozmosdk.anki.com/docs/install-macos.html)
+Instructions to install Cozmo SDK and how to run SDK files can be found in this [link](http://cozmosdk.anki.com/docs/install-macos.html)
 
 ### Running
 after installing SDK, to run the program in this folder, simply type into terminal
@@ -31,6 +31,8 @@ Follow the following steps to get the file running
 - Run the duplicated example file with the content of this program
 
 ### Demonstration
+##### Note
+In the video we have to realign Cozmo once in a while because the friction between his tread and the mat used prevent him from turning exactly 90 degrees.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZvaAH_TXjbk
 " target="_blank"><img src="http://img.youtube.com/vi/ZvaAH_TXjbk/0.jpg" 
 alt="Demonstration" width="400" height="350" border="10" /></a>
