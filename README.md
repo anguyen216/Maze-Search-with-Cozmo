@@ -1,7 +1,7 @@
 # Maze-Search-with-Cozmo
 This is done as a final project for CMP202 (at Chatham University) - introduction to programming (with Python). 
 
-The program allows Cozmo Robot to autonomically navigate through an "unknown" maze and find a way out using depth-first search algorithm.
+The program allows Cozmo Robot to autonomously navigate through an "unknown" maze and find a way out using depth-first search algorithm.
 
 ### Acknowledgement and Note
 - Other contributor: Jordan Schultz-McArdle 
